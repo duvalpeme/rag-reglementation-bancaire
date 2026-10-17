@@ -1,0 +1,12 @@
+# Registre des sources
+
+Textes officiels utilisés comme corpus. Les PDF ne sont pas versionnés : ils sont à télécharger depuis les URL ci-dessous.
+
+| Fichier | Zone | Organisme | Intitulé | Date du texte | Statut | URL | Collecté le |
+|---|---|---|---|---|---|---|---|
+| cobac_r_2018_01_creances.pdf | CEMAC | COBAC | Règlement COBAC R-2018/01 relatif à la classification, à la comptabilisation et au provisionnement des créances des établissements de crédit | 16 janvier 2018 | À vérifier | https://www.beac.int/wp-content/uploads/2016/10/reglement_cobac_r_2018-01_relatif_a_la_classification_a_la_comptabilisation_et_au_provisionnement_des_creances.pdf | 2026-10-17 |
+| cobac_r_2010_01_couverture_risques.pdf | CEMAC | COBAC | Règlement COBAC R-2010/01 relatif à la couverture des risques des établissements de crédit | 22 septembre 2010 | À vérifier | https://www.beac.int/supervision-bancaire/reglements-de-cobac/ | 2026-10-17 |
+| cobac_r_2010_02_division_risques.pdf | CEMAC | COBAC | Règlement COBAC R-2010/02 relatif à la division des risques des établissements de crédit | 22 septembre 2010 | À vérifier (modifié par R-2020/01) | https://www.beac.int/supervision-bancaire/reglements-de-cobac/ | 2026-10-17 |
+| cobac_r_2016_04_controle_interne.pdf | CEMAC | COBAC | Règlement COBAC R-2016/04 relatif au contrôle interne | 2016 | À vérifier | https://www.beac.int/supervision-bancaire/reglements-de-cobac/ | 2026-10-17 |
+| bceao_dispositif_prudentiel_2016.pdf | UEMOA | BCEAO | Dispositif prudentiel applicable aux établissements de crédit et aux compagnies financières de l'UMOA (annexe à la Décision n° 013/24/06/2016/CM/UMOA) | 24 juin 2016 | En vigueur depuis le 1er janvier 2018 | https://www.bceao.int/sites/default/files/2017-11/_annexe_decision_013_24_06_2016-_bceao-dispositif_prudentiel_de_l_umoa-2016-1.pdf | 2026-10-17 |
+| bceao_circulaire_04_2017_gestion_risques.pdf | UEMOA | Commission Bancaire de l'UMOA | Circulaire n° 04-2017/CB/C relative à la gestion des risques dans les établissements de crédit et compagnies financières de l'UMOA | 2017 | À vérifier | https://www.bceao.int/sites/default/files/2018-03/CIRCULAIRE%20N%C2%B004-2017-CB-C%20RELATIVE%20A%20LA%20GESTION%20DES%20RISQUES%20DANS%20LES%20ETABLISSEMENTS%20DE%20CREDIT%20ET%20COMPAGNIES%20FINANCIERES%20DE%20L'UMOA.pdf | 2026-10-17 |
